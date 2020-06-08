@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is DE77-A00B
+
+ Directory of C:\Users\sivak\Desktop\MyProject
+
+08-06-2020  13:42    <DIR>          .
+08-06-2020  13:42    <DIR>          ..
+08-06-2020  13:42                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  192,351,272,960 bytes free
